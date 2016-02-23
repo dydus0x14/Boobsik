@@ -5,7 +5,9 @@ It is a Telegram bot which understands next commands:
 
 	- /boobs - bot sends a photo to a chat;
 	
-	- in progress.
+	- /search name - bot tries to search a girl with required name;
+	
+	- /help - bot prints list of available commands. 
 
 
 # Contributors
