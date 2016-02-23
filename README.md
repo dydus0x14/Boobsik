@@ -2,8 +2,10 @@
 Look at boobs and fun
 
 It is a Telegram bot which understands next commands:
-	- /boobs - bot sends a photo to a chat
-	- in progress
+
+	- /boobs - bot sends a photo to a chat;
+
+	- in progress.
 
 
 # Contributors
